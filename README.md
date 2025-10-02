@@ -19,6 +19,11 @@ make
 
 This will create an executable named `sdi` in the root directory.
 
+### Working diagram
+
+<img width="461" height="797" alt="image" src="https://github.com/user-attachments/assets/845f4713-f544-4aec-805a-682c81bf0345" />
+
+
 ## Usage
 
 To run the program, execute the `sdi` executable:
