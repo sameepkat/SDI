@@ -2,6 +2,8 @@
 
 A C++ program that performs symbolic differentiation of mathematical expressions.
 
+![SDI Screenshot](assets/sdi_image.png)
+
 ## Features
 
 *   Parses algebraic mathematical expressions into an Abstract Syntax Tree (AST).
